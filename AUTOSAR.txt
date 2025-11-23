@@ -2,3 +2,7 @@ Different Layers in AUTOSAR
 Application Layer
 RTE Layer
 BSW Layer
+
+MCAL Layer
+ECU Abstraction Layer
+Service Layer
